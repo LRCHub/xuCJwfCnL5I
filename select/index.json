@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "STARS",
+  "base_artist": "高木さん(CV:高橋李依)",
+  "createdAt": "2026-03-04T22:38:37.946584Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stars Like Confetti",
+      "artist": "Dustin Lynch",
+      "has_synced": true,
+      "path": "select/01_Stars_Like_Confetti_Dustin_Lynch.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Where the Stars and Stripes and the Eagle Fly",
+      "artist": "Aaron Tippin",
+      "has_synced": true,
+      "path": "select/02_Where_the_Stars_and_Stripes_and_the_Eagle_Fly_Aaron_Tippin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Where The Stars And Stripes And The Eagle Fly (Album Version)",
+      "artist": "Aaron Tippin",
+      "has_synced": true,
+      "path": "select/03_Where_The_Stars_And_Stripes_And_The_Eagle_Fly_(Album_Version)_Aaron_Tippin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Beyond the Stars (feat. Willie Nelson)",
+      "artist": "Tami Neilson feat. Willie Nelson",
+      "has_synced": true,
+      "path": "select/04_Beyond_the_Stars_(feat._Willie_Nelson)_Tami_Neilson_feat._Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Beyond the Stars (feat. Willie Nelson)",
+      "artist": "Tami Neilson",
+      "has_synced": true,
+      "path": "select/05_Beyond_the_Stars_(feat._Willie_Nelson)_Tami_Neilson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Can't See Stars (feat. Kevin Morby)",
+      "artist": "Erin Rae feat. Kevin Morby",
+      "has_synced": true,
+      "path": "select/06_Can't_See_Stars_(feat._Kevin_Morby)_Erin_Rae_feat._Kevin_Morby.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Can't See Stars (feat. Kevin Morby)",
+      "artist": "Erin Rae",
+      "has_synced": true,
+      "path": "select/07_Can't_See_Stars_(feat._Kevin_Morby)_Erin_Rae.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Keeper of the Stars",
+      "artist": "Tracy Byrd",
+      "has_synced": true,
+      "path": "select/08_Keeper_of_the_Stars_Tracy_Byrd.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Keeper Of The Stars - Bonus Track",
+      "artist": "Tracy Byrd",
+      "has_synced": true,
+      "path": "select/09_Keeper_Of_The_Stars_-_Bonus_Track_Tracy_Byrd.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Out Among the Stars",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/10_Out_Among_the_Stars_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stars and Stripes on Iwo Jima",
+      "artist": "Bob Wills & His Texas Playboys",
+      "has_synced": true,
+      "path": "select/11_Stars_and_Stripes_on_Iwo_Jima_Bob_Wills_&_His_Texas_Playboys.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Keeper of the Stars",
+      "artist": "Tracy Byrd",
+      "has_synced": true,
+      "path": "select/12_The_Keeper_of_the_Stars_Tracy_Byrd.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Keeper Of The Stars (Album Version)",
+      "artist": "Tracy Byrd",
+      "has_synced": true,
+      "path": "select/13_The_Keeper_Of_The_Stars_(Album_Version)_Tracy_Byrd.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Keeper Of The Stars - Radio Edit",
+      "artist": "Tracy Byrd",
+      "has_synced": false,
+      "path": "select/14_The_Keeper_Of_The_Stars_-_Radio_Edit_Tracy_Byrd.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Where the Stars & Stripes & the Eagle Fly",
+      "artist": "Aaron Tippin",
+      "has_synced": false,
+      "path": "select/15_Where_the_Stars_&_Stripes_&_the_Eagle_Fly_Aaron_Tippin.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "One of the Brightest Stars",
+      "artist": "James Blunt",
+      "has_synced": true,
+      "path": "select/16_One_of_the_Brightest_Stars_James_Blunt.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STARS",
+      "artist": "高木さん(高橋李依)",
+      "has_synced": false,
+      "path": "select/pl_01_STARS_高木さん(高橋李依).txt"
+    }
+  ]
+}
